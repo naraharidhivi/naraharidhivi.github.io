@@ -138,6 +138,10 @@ input[type=text], select, textarea {
     padding: 18px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   } 
+  .reveal-if-active {
+    display: none;
+  }
+
 
   @media only screen and (max-width: 400px) {
     .about{
